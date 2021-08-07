@@ -2,7 +2,9 @@
 
 Check both smart contracts: 
 - NumeroAleatorio.sol which is our contract.
+
 and
+
 - VRFConsumerBase.sol which is one of the Chainlink contracts.
 
 Remember I accept BAT Token tips. Use Brave Browser! Thanks.
