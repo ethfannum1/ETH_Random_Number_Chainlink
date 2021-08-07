@@ -45,4 +45,13 @@ As you can see our contract is finally deployed to the address:
     0x128F6F81688d285ba8b02c9Bbc53Bb9D1E7cE20f
 
 
+------------
+
+But we need to send a minimum amount of Token LINK to our contract, which our contract will use to be able to pay the Chainlink contract the fee.
+In other words, at least 0.1 LINK must be sent to our contract.
+I will send to our contract 1 LINK using Metamask.
+
+
+[![](https://github.com/ethfannum1/ETH_Random_Number_Chainlink/blob/main/paso4.jpg)](https://github.com/ethfannum1/ETH_Random_Number_Chainlink/blob/main/paso4.jpg)
+
 
