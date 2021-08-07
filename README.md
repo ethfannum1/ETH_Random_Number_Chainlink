@@ -12,3 +12,10 @@ which is basically another smart contract that coordinates the information from 
 
 The Rinkeby testnet will be used.
 To do this, you must have access to a Rinkeby node.
+
+
+------------
+
+We will use Brownie framework to compile and deploy our smart contract.
+
+[![](https://github.com/ethfannum1/ETH_Random_Number_Chainlink/blob/main/2.png)](https://github.com/ethfannum1/ETH_Random_Number_Chainlink/blob/main/2.png)
