@@ -75,4 +75,5 @@ Once we called Chainlink contract in order to get a random number, Chainlink con
 
 This random number is saved in our contract variable. 
 And just show the value.
+
 [![](https://github.com/ethfannum1/ETH_Random_Number_Chainlink/blob/main/paso6.jpg)](https://github.com/ethfannum1/ETH_Random_Number_Chainlink/blob/main/paso6.jpg)
