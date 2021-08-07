@@ -19,3 +19,12 @@ To do this, you must have access to a Rinkeby node.
 We will use Brownie framework to compile and deploy our smart contract.
 
 [![](https://github.com/ethfannum1/ETH_Random_Number_Chainlink/blob/main/2.png)](https://github.com/ethfannum1/ETH_Random_Number_Chainlink/blob/main/2.png)
+
+
+------------
+
+This contract has to have a minimum amount of LINK token in order to work: to be able to call the Chainklink contract and make it work.
+
+First we access Rinkeby Testnet using Brownie.
+
+[![](https://github.com/ethfannum1/ETH_Random_Number_Chainlink/blob/main/paso1.jpg)](https://github.com/ethfannum1/ETH_Random_Number_Chainlink/blob/main/paso1.jpg)
