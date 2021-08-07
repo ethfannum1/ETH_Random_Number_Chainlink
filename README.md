@@ -32,3 +32,17 @@ First we access Rinkeby Testnet using Brownie.
 Next we need to declare a variable that holds our account data we are gonna use to deploy our contract NumeroAleatorio.sol.
 
 [![](https://github.com/ethfannum1/ETH_Random_Number_Chainlink/blob/main/paso2.jpg)](https://github.com/ethfannum1/ETH_Random_Number_Chainlink/blob/main/paso2.jpg)
+
+
+------------
+
+Now we are ready to deploy our contract NumeroAleatorio.sol.
+
+[![](https://github.com/ethfannum1/ETH_Random_Number_Chainlink/blob/main/paso3.jpg)](https://github.com/ethfannum1/ETH_Random_Number_Chainlink/blob/main/paso3.jpg)
+
+As you can see our contract is finally deployed to the address:
+
+    0x128F6F81688d285ba8b02c9Bbc53Bb9D1E7cE20f
+
+
+
