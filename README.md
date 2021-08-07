@@ -1,5 +1,10 @@
 # This is an example of using Chainlink to get a random number. 
 
+Check both smart contracts: 
+- NumeroAleatorio.sol which is our contract.
+and
+- VRFConsumerBase.sol which is one of the Chainlink contracts.
+
 Remember I accept BAT Token tips. Use Brave Browser! Thanks.
 
 
@@ -60,3 +65,12 @@ I will send to our contract 1 LINK using Metamask.
 Now we call the function of our contract in order to make the call to Chainlink contract.
 
 [![](https://github.com/ethfannum1/ETH_Random_Number_Chainlink/blob/main/paso5.jpg)](https://github.com/ethfannum1/ETH_Random_Number_Chainlink/blob/main/paso5.jpg)
+
+
+------------
+
+Once we called Chainlink contract in order to get a random number, Chainlink contract calls back our contract and send us the random number.
+
+This random number is saved in our contract variable. 
+And just show the value.
+[![](https://github.com/ethfannum1/ETH_Random_Number_Chainlink/blob/main/paso6.jpg)](https://github.com/ethfannum1/ETH_Random_Number_Chainlink/blob/main/paso6.jpg)
