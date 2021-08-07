@@ -28,3 +28,7 @@ This contract has to have a minimum amount of LINK token in order to work: to be
 First we access Rinkeby Testnet using Brownie.
 
 [![](https://github.com/ethfannum1/ETH_Random_Number_Chainlink/blob/main/paso1.jpg)](https://github.com/ethfannum1/ETH_Random_Number_Chainlink/blob/main/paso1.jpg)
+
+Next we need to declare a variable that holds our account data we are gonna use to deploy our contract NumeroAleatorio.sol.
+
+[![](https://github.com/ethfannum1/ETH_Random_Number_Chainlink/blob/main/paso2.jpg)](https://github.com/ethfannum1/ETH_Random_Number_Chainlink/blob/main/paso2.jpg)
