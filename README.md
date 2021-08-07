@@ -55,3 +55,8 @@ I will send to our contract 1 LINK using Metamask.
 [![](https://github.com/ethfannum1/ETH_Random_Number_Chainlink/blob/main/paso4.jpg)](https://github.com/ethfannum1/ETH_Random_Number_Chainlink/blob/main/paso4.jpg)
 
 
+------------
+
+Now we call the function of our contract in order to make the call to Chainlink contract.
+
+[![](https://github.com/ethfannum1/ETH_Random_Number_Chainlink/blob/main/paso5.jpg)](https://github.com/ethfannum1/ETH_Random_Number_Chainlink/blob/main/paso5.jpg)
